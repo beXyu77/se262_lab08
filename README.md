@@ -2,9 +2,9 @@
 lab08
 
 use it with following command in terminal:
-> npm init -y
-> npm install express -save
-> npm install -g nodemon
->  npm install body-parser
+* npm init -y
+* npm install express -save
+* npm install -g nodemon
+*  npm install body-parser
 
-and run with : nodemon file.js
+and run with : *nodemon file.js
